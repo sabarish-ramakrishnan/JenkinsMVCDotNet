@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        label 'windows'
-        }
+    agent any
     environment {
         outputFolder = 'artifacts'
         // App folder name MUST match the octopus deploy project name
