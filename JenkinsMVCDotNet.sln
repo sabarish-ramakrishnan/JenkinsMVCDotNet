@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsMVCDotNet", "JenkinsMVCDotNet\JenkinsMVCDotNet.csproj", "{9872766A-C754-493C-AFBB-091DA6E69FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsMVCDotNet.Tests", "JenkinsMVCDotNet.Tests\JenkinsMVCDotNet.Tests.csproj", "{57360D45-2DE9-4D05-8BE4-13A144E1DDD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9872766A-C754-493C-AFBB-091DA6E69FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9872766A-C754-493C-AFBB-091DA6E69FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9872766A-C754-493C-AFBB-091DA6E69FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9872766A-C754-493C-AFBB-091DA6E69FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57360D45-2DE9-4D05-8BE4-13A144E1DDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57360D45-2DE9-4D05-8BE4-13A144E1DDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57360D45-2DE9-4D05-8BE4-13A144E1DDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57360D45-2DE9-4D05-8BE4-13A144E1DDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B852B06-CDFA-4A43-8E23-99D6D19BE86A}
+	EndGlobalSection
+EndGlobal
